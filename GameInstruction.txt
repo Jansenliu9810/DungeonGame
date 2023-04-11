@@ -1,0 +1,7 @@
+Game description: 
+The player needs to pick up at least 4 special items to meet the exit conditions. 
+When the player picks up the fourth special item, the game will automatically exit.
+
+Tips：
+One of the items will fall only after the player defeats a monster in the innermost room.
+Just try it! 
